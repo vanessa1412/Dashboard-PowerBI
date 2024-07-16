@@ -1,11 +1,12 @@
 # Dashboards-PowerBI
 
-Bem-vindo ao meu portfólio de dashboards desenvolvidos em Power BI! Este é um repositório onde você encontrará uma coleção de projetos que abrangem diversos setores com cenários reais do dia a dia. Em cada pasta está um Dashboard diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
+Bem-vindo ao meu portfólio de dashboards desenvolvidos em Power BI! 
+Este é um repositório onde você encontrará uma coleção de projetos que abrangem diversos setores com cenários reais do dia a dia. Em cada pasta está um Dashboard diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
 
 ## Índice
 
-- [Projetos]
-  - [Dashboard de Vendas](#dashboard-de-vendas)
+- Projetos
+  - [Dashboard Analítico de Vendas](#dashboard-de-vendas)
   - [Dashboard de Marketing](#dashboard-de-marketing)
   - [Dashboard de Logística](#dashboard-de-logística)
   - [Outros Dashboards](#outros-dashboards)
@@ -17,8 +18,8 @@ Se você tiver alguma dúvida ou quiser discutir sobre dados e visualizações, 
 
 - Email: [vanessa.fernandes.silva@hotmail.com](mailto:vanessa.fernandes.silva@hotmail.com)
 - LinkedIn: [Vanessa Fernandes da Silva](https://www.linkedin.com/in/vanessa-fernandes-da-silva-a8957a51)
-- GitHub: [Vanessa Fernandes da Silva](https://github.com/vanessa1412)
+- GitHub: [vanessa1412](https://github.com/vanessa1412)
 
 ---
 
-Espero que você aproveite e se inspire com esses dashboards!
+Espero que você aproveite e se inspire com esses dashboards! 👋
