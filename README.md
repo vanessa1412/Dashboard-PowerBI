@@ -6,7 +6,7 @@ Este é um repositório onde você encontrará uma coleção de projetos que abr
 ## Índice
 
 - Projetos
-  - [Dashboard Analítico de Vendas](#dashboard-de-vendas)
+  - [Dashboard Analítico de Vendas](https://github.com/vanessa1412/Dashboard-PowerBI/blob/main/Dashboard%20analitico%20de%20vendas%20globais/dashboard_vendas.pdf)
   - [Dashboard de Marketing](#dashboard-de-marketing)
   - [Dashboard de Logística](#dashboard-de-logística)
   - [Outros Dashboards](#outros-dashboards)
